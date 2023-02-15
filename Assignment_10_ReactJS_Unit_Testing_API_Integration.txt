@@ -1,0 +1,17 @@
+Create a React component that displays a list of products from an API. The API endpoint will be provided to you. Each product should have a title, description, image, and price. 
+
+Use axios or any other library to make the API call and fetch the products data from the API endpoint. 
+
+Using Jest , write unit tests to test the following: 
+
+The component correctly makes the API call and fetches the products data 
+
+The component renders correctly with the fetched data 
+
+The component displays the correct number of products 
+
+The component displays the correct title, description, image and price for each product 
+
+The component correctly handles any errors or issues with the API call. 
+
+Submit your component code, unit tests and the API endpoint results (if needed) for grading. 
